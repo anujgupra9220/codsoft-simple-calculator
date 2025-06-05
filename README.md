@@ -2,6 +2,11 @@
 
 A simple and clean web-based calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations like addition, subtraction, multiplication, division, and percentage. It also includes backspace and clear functionalities. Designed with a responsive layout and user-friendly interface.
 
+## 🔗 Live Demo
+
+[Click here to see the live site](https://anuj-basic-calc-app.netlify.app/)
+
+
 ## 🚀 Features
 
 - Basic operations: `+`, `-`, `×`, `÷`, `%`
